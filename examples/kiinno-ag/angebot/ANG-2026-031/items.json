@@ -1,0 +1,5 @@
+[
+  { "position": 1, "description": "Analyse & Konzept", "quantity": 5, "unit": "Tage", "unit_price": 2400, "total": 12000 },
+  { "position": 2, "description": "Implementierung Kernmodule", "quantity": 15, "unit": "Tage", "unit_price": 2400, "total": 36000 },
+  { "position": 3, "description": "Schulung & Übergabe", "quantity": 3, "unit": "Tage", "unit_price": 2400, "total": 7200 }
+]
